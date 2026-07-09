@@ -11,3 +11,5 @@ This repository contains my Linux learning journey.
 - Git
 
 Created by Deepanshu Negi
+## Day 1
+- Learned Git basics
