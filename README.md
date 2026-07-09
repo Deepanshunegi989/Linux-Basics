@@ -13,3 +13,12 @@ This repository contains my Linux learning journey.
 Created by Deepanshu Negi
 ## Day 1
 - Learned Git basics
+
+## Day 1
+
+Today I learned:
+- Git init
+- Git status
+- Git add
+- Git commit
+- Git push
