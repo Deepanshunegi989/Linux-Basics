@@ -22,3 +22,5 @@ Today I learned:
 - Git add
 - Git commit
 - Git push
+
+this line is for example im learinig git and now im doing this by my self so if it edited on github ill sleap peacefully bie
